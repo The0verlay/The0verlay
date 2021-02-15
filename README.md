@@ -1,16 +1,50 @@
-### Hi there 👋
+# Hola Bienvenido
 
-<!--
-**The0verlay/The0verlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_I am from Cuba, 18 years old... lover❤️ of computing and Development for iOS_
 
-Here are some ideas to get you started:
+## Comenzando 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Obtén una copia de los proyectos en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+Mira **Deployment** para conocer como desplegar el proyecto.
+
+
+### Pre-requisitos 📋
+
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+```
+macOS and Xcode
+```
+
+### Instalación 🔧
+
+_Clona los repositorios y añádelos a tus Proyectos, experimenta y llévalos más allá_
+
+## Construido con 🛠️
+
+_las herramientas que utilizo_
+
+* [Xcode](http://www.developers.apple.com) - Desarrollo de iOS.
+
+
+## Autores ✒️
+
+
+* ** Elier Ayala Bernal** - *Trabajo Inicial y Desarrollador* - [The0verlay](https://github.com/The0verlay)
+
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (que Licencia) - esto es para compartir con todos 😉
+
+##  Redes Sociales
+
+*  [Twitter](https://twitter.com/The0verlay)
+*  [Instagram](https://instagram.com/elierayalabernal)
+*  [Facebook](https://facebook.com/elierayalabernal)
+*  [Telegram](https://t.me/The0verlay)
+
+
+---
+⌨️ con ❤️ por [The0verlay](https://github.com/The0verlay) 😊
