@@ -40,7 +40,7 @@ Este proyecto está bajo la Licencia (que Licencia) - esto es para compartir con
 
 ##  Redes Sociales
 
-*  [Twitter](https://twitter.com/The0verlay)
+*  [Twitter](https://twitter.com/elier_ayala)
 *  [Instagram](https://instagram.com/elierayalabernal)
 *  [Facebook](https://facebook.com/elierayalabernal)
 *  [Telegram](https://t.me/The0verlay)
