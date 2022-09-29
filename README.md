@@ -1,50 +1,50 @@
-# Hola Bienvenido
+# Hello welcome
 
 _I am from Cuba, 18 years old... lover ❤️ of computing and Development for iOS_
 
-## Comenzando 🚀
+## Starting 🚀
 
-_Obtén una copia de los proyectos en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Get a copy of the working projects on your local machine for development and testing purposes._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+See **Deployment** to learn how to deploy the project.
 
 
-### Pre-requisitos 📋
+### Pre-requisites 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_What things do you need to install the software and how to install them_
 
 ```
 macOS and Xcode
 ```
 
-### Instalación 🔧
+### Installation 🔧
 
-_Clona los repositorios y añádelos a tus Proyectos, experimenta y llévalos más allá_
+_Clone the repositories and add them to your Projects, experiment and take them further_
 
-## Construido con 🛠️
+## Built with 🛠️
 
-_las herramientas que utilizo_
+_the tools I use_
 
-* [Xcode](http://www.developers.apple.com) - Desarrollo de iOS.
-
-
-## Autores ✒️
+* [Xcode](http://www.developers.apple.com) - iOS development.
 
 
-* ** Elier Ayala Bernal** - *Trabajo Inicial y Desarrollador* - [The0verlay](https://github.com/The0verlay)
+## Authors ✒️
 
 
-## Licencia 📄
+* **Elier Ayala Bernal**
 
-Este proyecto está bajo la Licencia (que Licencia) - esto es para compartir con todos 😉
 
-##  Redes Sociales
+## License 📄
 
-*  [Twitter](https://twitter.com/elier_ayala)
-*  [Instagram](https://instagram.com/elierayalabernal)
-*  [Facebook](https://facebook.com/elierayalabernal)
-*  [Telegram](https://t.me/The0verlay)
+This project is under the License (what License) - this is to share with everyone 😉
+
+##  Social networks
+
+* [Twitter](https://twitter.com/elierasala)
+* [Instagram](https://instagram.com/eliierayalabernal)
+* [Facebook](https://facebook.com/elierasalabernal)
+* [Telegram](https://t.me/The0verlay)
 
 
 ---
-⌨️ con ❤️ por [The0verlay](https://github.com/The0verlay) 😊
+⌨️ with ❤️ by [The0verlay](https://github.com/The0verlay) 😊
