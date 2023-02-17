@@ -1,6 +1,6 @@
 # Hello welcome
 
-_I am from Cuba, 19 years old... lover ❤️ of computing and Development for iOS_
+_I am from Cuba, lover ❤️ of computing and Development for iOS_
 
 ## Starting 🚀
 
