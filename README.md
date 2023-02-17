@@ -40,10 +40,9 @@ This project is under the License (what License) - this is to share with everyon
 
 ##  Social networks
 
-* [Twitter](https://twitter.com/elierasala)
+* [Twitter](https://twitter.com/elier_ayala)
 * [Instagram](https://instagram.com/eliierayalabernal)
-* [Facebook](https://facebook.com/elierasalabernal)
-* [Telegram](https://t.me/The0verlay)
+* [Facebook](https://facebook.com/elierayalabernal)
 
 
 ---
